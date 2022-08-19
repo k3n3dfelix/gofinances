@@ -23,7 +23,7 @@ cd gofinances
 # Instale as dependências
 yarn install
 # Rode a aplicação
-yarn start
+expo start
 ```
 
 <br>
