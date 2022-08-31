@@ -1,6 +1,8 @@
 # Go Finances - Aplicativo para controle financeiro 
 O Go Finances é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias.
 
+<img src="https://github.com/k3n3dfelix/gofinances/blob/main/screens/layouts.PNG" />
+
 ## Tecnologias
 
 Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
